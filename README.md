@@ -14,11 +14,11 @@ Page: https://efo-yu.github.io/
 ## Main
 
 ### languages
-[![Main Stack](https://skillicons.dev/icons?i=js,md,node,python,raspberrypi,latex)](https://skillicons.dev)
+[![Main Stack](https://skillicons.dev/icons?i=js,python,md,latex)](https://skillicons.dev)
 - Typst
 
 ### others
-[![Main Stack](https://skillicons.dev/icons?i=blender,unity,arduino,notion,discord,bash,vscode)](https://skillicons.dev)
+[![Main Stack](https://skillicons.dev/icons?i=nodejs,bash,vscode,blender,unity,arduino,raspberrypi,notion,discord)](https://skillicons.dev)
 
 ## Sub
 
