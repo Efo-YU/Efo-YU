@@ -1,7 +1,7 @@
 # About me
 HN: Efo<br/>
 Contact: F.O.Yamagatauniv@outlook.jp<br/>
-Affiliation: **DEPT** of Sci., Faculty of Sci., Yamagata University in Japan<br/>
+Affiliation: **DEPT** of Sci, Fac of Sci, Yamagata Univ in Japan<br/>
 Page: https://efo-yu.github.io/
 
 # Stacks
