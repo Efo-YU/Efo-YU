@@ -1,4 +1,4 @@
-名乗るほどの者では
+Yamagata University **DEPT** of Sci.
 
 <!---
 Efo-YU/Efo-YU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
