@@ -30,9 +30,9 @@ Page: https://efo-yu.github.io/
 
 # Stats
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efo-YU&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Efo-YU" />
+<p align="left">
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efo-YU&layout=compact&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Efo-YU&theme=tokyonight" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Efo-YU&margin-w=5)](https://github.com/Efo-YU/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Efo-YU&margin-w=5&theme=tokyonight)](https://github.com/Efo-YU/)
