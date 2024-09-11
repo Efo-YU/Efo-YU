@@ -18,7 +18,7 @@ Page: https://efo-yu.github.io/
 - Typst
 
 ### others
-[![mainothers](https://skillicons.dev/icons?i=arch,vscode,nodejs,blender,unity,notion,discord,bots)](https://skillicons.dev)
+[![mainothers](https://skillicons.dev/icons?i=arch,vscode,nodejs,discord,bots,notion,blender,unity)](https://skillicons.dev)
 
 ## Sub
 
@@ -26,12 +26,11 @@ Page: https://efo-yu.github.io/
 [![sublangs](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 
 ### others
-[![subothers](https://skillicons.dev/icons?i=debian,azure,arduino,raspberrypi,eclipse)](https://skillicons.dev)
+[![subothers](https://skillicons.dev/icons?i=azure,arduino,raspberrypi)](https://skillicons.dev)
 
 # Stats
 
 <p align="left">
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Efo-YU&layout=compact&show_icons=true&theme=tokyonight" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Efo-YU&theme=tokyonight" />
 </p>
 
