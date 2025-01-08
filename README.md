@@ -1,16 +1,35 @@
-## Hi there 👋
+# About me
+Affiliation: **DEPT** of Sci, Fac of Sci, Yamagata Univ in JPN
+Page: https://efo-yu.github.io/
 
-<!--
-**Efo-YU/Efo-YU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Stacks
+- **web front/back**
+- mathematics
+- natural science
+  - physics
+  - biology
 
-Here are some ideas to get you started:
+## Main
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### languages
+[![mainlangs](https://skillicons.dev/icons?i=js,latex,md)](https://skillicons.dev)
+- Typst
+
+### others
+[![mainothers](https://skillicons.dev/icons?i=arch,vscode,nodejs,discord,bots,notion,blender,unity)](https://skillicons.dev)
+
+## Sub
+
+### languages
+[![sublangs](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
+
+### others
+[![subothers](https://skillicons.dev/icons?i=azure,arduino,raspberrypi)](https://skillicons.dev)
+
+# Stats
+
+<p align="left">
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Efo-YU&theme=tokyonight" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Efo-YU&margin-w=5&theme=tokyonight)](https://github.com/Efo-YU/)
