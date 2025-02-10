@@ -8,7 +8,7 @@
 - physics
 - biology
 ## Technology
-## Engineerinag
+## Engineering
 - web front/back
 ## Arts
 ## Mathematics
