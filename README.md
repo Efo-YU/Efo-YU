@@ -1,19 +1,25 @@
 # About me
-Affiliation: **DEPT** of Sci, Fac of Sci, Yamagata Univ in JPN
-Page: https://efo-yu.github.io/
+- undergrad in the DEPARTMENT of Science, [Faculty of Science, Yamagata University in Japan](https://www.sci.yamagata-u.ac.jp/?normal)
+- full-stack student / **`full-stUck developer`**
+- website: https://efo-yu.github.io/
 
-# Stacks
-- **web front/back**
-- mathematics
-- natural science
-  - physics
-  - biology
+# STEAM-Stacks
+## Science
+- physics
+- biology
+## Technology
+## Engineerinag
+- web front/back
+## Arts
+## Mathematics
+
+# Dev-stacks
 
 ## Main
 
 ### languages
 [![mainlangs](https://skillicons.dev/icons?i=js,latex,md)](https://skillicons.dev)
-- Typst
+- [Typst](https://github.com/typst/typst)
 
 ### others
 [![mainothers](https://skillicons.dev/icons?i=arch,vscode,nodejs,discord,bots,notion,blender,unity)](https://skillicons.dev)
