@@ -13,25 +13,11 @@
 - web front/back
 ## Arts
 ## Mathematics
-
+- Algebra
 # Dev-stacks
 
-## Main
-
-### languages
-[![mainlangs](https://skillicons.dev/icons?i=js,latex,md)](https://skillicons.dev)
+[![mainlangs](https://skillicons.dev/icons?i=next,arch,vscode,docker,discord,blender,latex)](https://skillicons.dev)
 - [Typst](https://github.com/typst/typst)
-
-### others
-[![mainothers](https://skillicons.dev/icons?i=arch,vscode,nodejs,discord,bots,notion,blender,unity)](https://skillicons.dev)
-
-## Sub
-
-### languages
-[![sublangs](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
-
-### others
-[![subothers](https://skillicons.dev/icons?i=azure,arduino,raspberrypi)](https://skillicons.dev)
 
 # Stats
 
