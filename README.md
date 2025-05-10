@@ -4,11 +4,6 @@
 - full-stack student / **`full-stUck developer`**
 <!--website: https://efo-yu.github.io/ -->
 
-# Dev-stacks
-
-[![mainlangs](https://skillicons.dev/icons?i=next,arch,vscode,docker,discord,blender,latex)](https://skillicons.dev)
-- [Typst](https://github.com/typst/typst)
-
 # Stats
 
 <p align="left">
