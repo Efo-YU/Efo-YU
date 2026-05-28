@@ -4,9 +4,3 @@
 - full-stack student / **`full-stUck developer`**
 - contact: goodev140@gmail.com
 - website: https://efo-yu.github.io/
-
-# Stats
-
-<p align="left">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Efo-YU&theme=tokyonight" />
-</p>
